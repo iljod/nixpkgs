@@ -18,7 +18,7 @@ let
   # you must use bundix to generate a new gemset.nix in the Vagrant source.
   version = "2.4.9";
   url = "https://github.com/hashicorp/vagrant/archive/v${version}.tar.gz";
-  hash = "sha256-xlL0YLY5yG9Q2L93Ag1pO/F8LOp+JdcgrvWyw+bZP/I";
+  hash = "sha256-xlL0YLY5yG9Q2L93Ag1pO/F8LOp+JdcgrvWyw+bZP/I=";
 
   ruby = ruby_3_4;
 
